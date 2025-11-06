@@ -1,0 +1,5 @@
+{
+  "name": "Abdullah Font Identifier",
+  "description": "An application that analyzes an uploaded image to identify the font used in the text, providing a primary match, confidence level, and closest alternatives.",
+  "requestFramePermissions": []
+}
